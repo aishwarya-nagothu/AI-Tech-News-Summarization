@@ -1,0 +1,9 @@
+[theme]
+base = "light"
+backgroundColor = "#ffffff"
+textColor = "#000000"
+
+[server]
+headless = true
+enableCORS = false
+enableXsrfProtection = false
